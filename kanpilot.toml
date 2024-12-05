@@ -61,6 +61,15 @@ name = "To Do"
   priority = ""
   linkCommits = [ ]
 
+[[processes]]
+id = "process2"
+name = "In Progress"
+tasks = [ ]
+
+[[processes]]
+id = "process3"
+name = "Done"
+
   [[processes.tasks]]
   id = "fiks7u5818j99hy8fudx1g92"
   title = "4c. Main Usage of Carbon (Example 3)"
@@ -93,13 +102,3 @@ name = "To Do"
   checkList = [ ]
   priority = ""
   linkCommits = [ ]
-
-[[processes]]
-id = "process2"
-name = "In Progress"
-tasks = [ ]
-
-[[processes]]
-id = "process3"
-name = "Done"
-tasks = [ ]
