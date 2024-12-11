@@ -5,6 +5,59 @@ skipFiles = [ ".gitignore", "package.json" ]
 [[processes]]
 id = "process1"
 name = "To Do"
+tasks = [ ]
+
+[[processes]]
+id = "process2"
+name = "In Progress"
+
+  [[processes.tasks]]
+  id = "hadvoqwy240qvcuj1mw2mz3f"
+  title = "4b. Main Usage of Carbon (Example 2)"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+[[processes]]
+id = "process3"
+name = "Done"
+
+  [[processes.tasks]]
+  id = "fiks7u5818j99hy8fudx1g92"
+  title = "4c. Main Usage of Carbon (Example 3)"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "o37e86glwbdypql7szqh4ivz"
+  title = "5. Shortcomings of the Current Version"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "t07ax6ndsvmcd3pp6ye4sfti"
+  title = "6. Plans for the Future"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
 
   [[processes.tasks]]
   id = "task1"
@@ -42,59 +95,6 @@ name = "To Do"
   [[processes.tasks]]
   id = "wxalyh9a6vha7wtg0q1md3aa"
   title = "4a. Main Usage of Carbon (Example 1)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "hadvoqwy240qvcuj1mw2mz3f"
-  title = "4b. Main Usage of Carbon (Example 2)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-[[processes]]
-id = "process2"
-name = "In Progress"
-tasks = [ ]
-
-[[processes]]
-id = "process3"
-name = "Done"
-
-  [[processes.tasks]]
-  id = "fiks7u5818j99hy8fudx1g92"
-  title = "4c. Main Usage of Carbon (Example 3)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "o37e86glwbdypql7szqh4ivz"
-  title = "5. Shortcomings of the Current Version"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "t07ax6ndsvmcd3pp6ye4sfti"
-  title = "6. Plans for the Future"
   description = ""
   tag = "backlog"
   linkFiles = [ ]
