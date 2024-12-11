@@ -10,17 +10,7 @@ tasks = [ ]
 [[processes]]
 id = "process2"
 name = "In Progress"
-
-  [[processes.tasks]]
-  id = "hadvoqwy240qvcuj1mw2mz3f"
-  title = "4b. Main Usage of Carbon (Example 2)"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
+tasks = [ ]
 
 [[processes]]
 id = "process3"
@@ -95,6 +85,17 @@ name = "Done"
   [[processes.tasks]]
   id = "wxalyh9a6vha7wtg0q1md3aa"
   title = "4a. Main Usage of Carbon (Example 1)"
+  description = ""
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+  [[processes.tasks]]
+  id = "hadvoqwy240qvcuj1mw2mz3f"
+  title = "4b. Main Usage of Carbon (Example 2)"
   description = ""
   tag = "backlog"
   linkFiles = [ ]
