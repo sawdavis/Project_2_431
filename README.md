@@ -1,2 +1,4 @@
 # Project_2_431
-Second project for CS 431. We will be working with Carbon(carbon-lang) by Google.
+The purpose of this project is to research and work with Carbon by Google.
+
+
